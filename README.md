@@ -34,7 +34,7 @@ Experiment Result
 |  | CustomCNN | ResNet |
 | :----:| :----:| :----: |
 | Accuracy | 89.02% | 90.79% |
-| Parameter Size| 1.1M | 11.2M |
+| Trainable Params| 1.1M | 11.2M |
 | Training Time | 20s/epoch | 60s/epoch |
 | Learning Rate | 0.00109 | 0.00063 |
 
