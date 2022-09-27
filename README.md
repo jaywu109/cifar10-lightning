@@ -2,7 +2,7 @@
 
 A pytorch-lightning training notebook using albumentations, with comparison of custom CNN and ResNet.
 
-Building Environment 
+Preparation
 ---
 - requirement: Docker, Git
 - follow the steps below to build the training environment:
