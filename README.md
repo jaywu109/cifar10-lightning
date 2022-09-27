@@ -26,7 +26,7 @@ Training
 Experiment Result
 ---
 - hardware: NVIDIA GeForce RTX 3060 Laptop GPU, Intel Core i7–11375H 11th
-- trained for 70 epochs with `Adam`
+- trained for 70 epochs with **Adam**
 - data augmentation with Albumentations: RandomCrop, HorizontalFlip, Cutout
 - used built-in [learning rate finder](https://arxiv.org/abs/1506.01186) in pytorch lightning
 - comparison:
